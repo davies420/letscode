@@ -26,6 +26,12 @@ header{
 .lost{
     width: 300px;
 }
+.umbrella{
+    color:  rgb(204, 193, 193);
+}
+label{
+color: rgb(204, 193, 193);
+}
 @media screen and (min-width:800px) {
     
 
@@ -83,6 +89,9 @@ button {
 
 .lonely {
     color: rgb(233, 223, 224);
+}
+.lost{
+    width: 800px;
 }
 
 .able {
