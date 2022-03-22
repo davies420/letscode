@@ -41,6 +41,15 @@ color: rgb(204, 193, 193);
 .dwag{
     padding: 1em;
 }
+button{
+    color: red;
+    background-color: black;
+    border-radius: 10px;
+    padding: 10px;
+}
+.greenlight{
+    width: 100%;
+}
 @media screen and (min-width:800px) {
     
 
