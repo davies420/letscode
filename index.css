@@ -72,11 +72,19 @@ a {
     padding: 2vh 3vw;
 }
 
-.job, .ranafter, .loading, .homealone, .fallback {
+.job{
+    /* display: block; */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.ranafter,.loading,.homealone,.fallback{
     padding-left: 40px;
     padding-right: 40px;
 }
-
+.change{
+    display: none;
+}
 .badman {
     padding: 2vh 3vw;
     background-color: rgb(23, 23, 128);
