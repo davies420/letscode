@@ -32,6 +32,12 @@ header{
 label{
 color: rgb(204, 193, 193);
 }
+.winter{
+    color: #ffffff;
+}
+.lisa{
+    margin-bottom: 10px;
+}
 @media screen and (min-width:800px) {
     
 
