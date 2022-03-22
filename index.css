@@ -51,7 +51,14 @@ button{
     width: 100%;
 }
 .chopper{
-    background-color: bisque;
+    background-color: rgb(245, 240, 234);
+}
+.mumu{
+    padding-top: 18px;
+    background-color: rgb(212, 248, 236);
+}
+.labake{
+    width: 100%;
 }
 @media screen and (min-width:800px) {
     
@@ -150,6 +157,7 @@ button {
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
     border-top: 10%;
+    width: 500px;
 }
 
 .mumu {
@@ -280,4 +288,7 @@ button {
 button{
     background-color: #020636;
     color: antiquewhite;
+}
+.race{
+    padding-top:30% ;
 }
