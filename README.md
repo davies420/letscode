@@ -4,3 +4,4 @@ it's all about the sea
 hamburger for mobile
 link name : all-about-the-sea.netlify.app
 added : background-color: rgb(23, 23, 128)
+reduced ship image
