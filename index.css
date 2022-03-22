@@ -63,9 +63,24 @@ button{
     opacity: calc(0.7);
 }
 .zoro{
-    background-color: rgb(224, 228, 228);
-    
+    background-color: rgb(212, 245, 245);
 }
+.chan{
+    padding-top: 10%;
+}
+.diss{
+    padding-top: 9px;
+    padding-bottom: 9px;
+}
+.hack
+{ border: solid rgb(173, 149, 149);
+    background-color: rgb(247, 239, 239);
+    color:black;
+    width: 80%;
+    margin: 10% 0%;
+    margin-left: 18px;
+    padding: 1em;
+    box-shadow: 2px 2px rgb(226, 219, 219), 2px 2px rgb(58, 57, 57);}
 @media screen and (min-width:800px) {
     
 
