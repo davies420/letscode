@@ -6,6 +6,20 @@
 .job{
     display: none;
 }
+.change{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0em;
+    
+}
+header{
+    display: flex;
+    justify-content: space-between;
+}
+.heart{
+  padding: 2em;
+}
 @media screen and (min-width:800px) {
     
 
@@ -218,9 +232,4 @@ button {
 }
 .kill{
     background-color:rgb(230, 236, 216) ;
-}
-.bogy{
-    border-radius: 62005%;
-    padding-top: 10px;
-}
 }
