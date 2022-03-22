@@ -10,3 +10,4 @@ addded a space between the input fullname and email input
 padded the dwag div given them 1 em 
 gave man-in-office- width 100%
 gave my button a color and background color
+color and background color to image of a man in office

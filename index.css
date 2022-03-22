@@ -50,6 +50,9 @@ button{
 .greenlight{
     width: 100%;
 }
+.chopper{
+    background-color: bisque;
+}
 @media screen and (min-width:800px) {
     
 
@@ -273,4 +276,8 @@ button {
 }
 .kill{
     background-color:rgb(230, 236, 216) ;
+}
+button{
+    background-color: #020636;
+    color: antiquewhite;
 }
