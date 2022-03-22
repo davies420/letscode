@@ -14,3 +14,4 @@ color and background color to image of a man in office
 reduced labake image width to fit in the mobile design
 gave labake color aqua and reduced the opacity for the image
 added boder  and color to the faq
+Adding more styling to the FAQ

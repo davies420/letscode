@@ -3,314 +3,374 @@
     padding: 0;
     text-decoration: none;
 }
-.job{
+
+.job {
     display: none;
 }
-.change{
+
+.change {
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding: 0em;
-    
+
 }
-header{
+
+header {
     display: flex;
     justify-content: space-between;
 }
-.heart{
-  padding: 2em;
+
+.heart {
+    padding: 2em;
 }
-.badman{
+
+.badman {
     background-color: rgb(23, 23, 128)
 }
-.lost{
+
+.lost {
     width: 300px;
 }
-.umbrella{
-    color:  rgb(204, 193, 193);
+
+.umbrella {
+    color: rgb(204, 193, 193);
 }
-label{
-color: rgb(204, 193, 193);
+
+label {
+    color: rgb(204, 193, 193);
 }
-.winter{
+
+.winter {
     color: #ffffff;
 }
-.lisa{
+
+.lisa {
     margin-bottom: 10px;
 }
-.dwag{
+
+.dwag {
     padding: 1em;
 }
-button{
+
+button {
     color: red;
     background-color: black;
     border-radius: 10px;
     padding: 10px;
 }
-.greenlight{
+
+.greenlight {
     width: 100%;
 }
-.chopper{
+
+.chopper {
     background-color: rgb(245, 240, 234);
 }
-.mumu{
+
+.mumu {
     padding-top: 18px;
     background-color: rgb(212, 248, 236);
 }
-.labake{
+
+.labake {
     width: 100%;
     color: aqua;
     opacity: calc(0.7);
 }
-.zoro{
+
+.zoro {
     background-color: rgb(212, 245, 245);
 }
-.chan{
+
+.chan {
     padding-top: 10%;
 }
-.diss{
+
+.diss {
     padding-top: 9px;
     padding-bottom: 9px;
 }
-.hack
-{ border: solid rgb(173, 149, 149);
-    background-color: rgb(247, 239, 239);
-    color:black;
-    width: 80%;
-    margin: 10% 0%;
-    margin-left: 18px;
-    padding: 1em;
-    box-shadow: 2px 2px rgb(226, 219, 219), 2px 2px rgb(58, 57, 57);}
-@media screen and (min-width:800px) {
-    
 
-a {
-    font: 700;
-    font-size: 18px;
-    font-weight: bold;
-    font-family: 'Nunito Sans', sans-serif;
-    color: rgb(15, 15, 15);
-}
-.hoe {
-    color: orangered;
-}
-
-.spirit {
-    background-color: rgb(230, 236, 216);
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 2vh 3vw;
-}
-
-.job{
-    /* display: block; */
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
-.ranafter,.loading,.homealone,.fallback{
-    padding-left: 40px;
-    padding-right: 40px;
-}
-.change{
-    display: none;
-}
-.badman {
-    padding: 2vh 3vw;
-    background-color: rgb(23, 23, 128);
-    display: flex;
-    justify-content: space-between;
-    /* width: 100%; */
-}
-
-.winter {
-    color: rgb(212, 199, 199);
-    padding-top: 5%;
-}
-
-.umbrella {
-    font: bold;
-    font-size: 20px;
-    color: rgb(204, 193, 193);
-}
-
-button {
-    background-color: rgb(184, 11, 11);
-    padding: 10px;
-    padding-right: 60px;
-    padding-left: 60px;
-    border-radius: 10px;
-    margin-left: 15px;
-}
-
-.lonely {
-    color: rgb(233, 223, 224);
-}
-.lost{
-    width: 550px;
-}
-
-.able {
-    color: orangered;
-}
-
-.select {
-    background-color: rgb(247, 243, 235);
-    display: flex;
-    justify-content: space-between;
-    color: black;
-    font: bolder;
-    font-size: 18px;
-    font-family: 'Nunito Sans', sans-serif;
-    padding: 30vh 9vw;
-    /* padding-top:  */
-}
-
-.greenlight {
-    padding-right: 50%;
-    /* margin-top: -200px; */
-    width: 60%;
-}
-
-.labake {
-    border-top-right-radius: 10px;
-    border-top-left-radius: 10px;
-    border-bottom-left-radius: 10px;
-    border-bottom-right-radius: 10px;
-    border-top: 10%;
-    width: 500px;
-}
-
-.mumu {
-    display: flex;
-    background-color: rgb(209, 232, 241);
-    justify-content: space-between;
-    padding: 3vh 5vw;
-    gap: 20%;
-}
-
-.is {
-    color: rgb(17, 16, 16);
-    padding-top: 5%;
-    padding-left: 15%;
-    font-family: 'Nunito Sans', sans-serif;
-    font-size: 38px;
-    font: bolder;
-}
-
-.summer {
-    font: bolder;
-    font-size: 18px;
-    font-family: 'Nunito Sans', sans-serif;
-    padding: 3vh 5vw;
-}
-.race{
-    margin-top: -20%;
-}
-.chan{
-    color: black;
-    font: bolder;
-    font-size: 32px;
-    font-family: 'Nunito Sans', sans-serif;
-    padding: 3vh 9vw;
-    padding-top:10% ;
-}
-.obey{
-    font: 900;
-    font-size: 32px;
-    color: black;
-     font-family:'Nunito Sans', sans-serif;
-     padding:1em ;
-     padding: 2vh 5vw;
-     margin-left: 20px;
-}
-.diss{
-    font: 900;
-    font-size:15px;
-    color: black;
-     font-family:'Nunito Sans', sans-serif;
-     padding: 2vh 5vw;
-     margin-left: 20px;
-}
-.hack{
+.hack {
     border: solid rgb(173, 149, 149);
     background-color: rgb(247, 239, 239);
-    color:black;
+    color: black;
     width: 80%;
+    font-size: 18px;
     margin: 10% 0%;
     margin-left: 18px;
-    padding: 1em;
+    padding: 10px;
     box-shadow: 2px 2px rgb(226, 219, 219), 2px 2px rgb(58, 57, 57);
 }
-.rose{
-    border: solid #fff;
- background-color: #fff;
- color: #020636;
- width: 80%;
- margin: 10% 0%;
- padding: 1vh 0.5vw;
- box-shadow: 2px 2px rgb(226, 219, 219), 2px 2px rgb(58, 57, 57);
- font-size: 18px;
- font-weight: 700;
- margin-top: -5%;
-}
-.open{
-    float: right;
-}
-.dove{
-    border: solid #fff;
-    background-color: #fff;
-    color: #020636;
+
+.rose,.old,.dive,.dove {
+    border: solid rgb(173, 149, 149);
+    background-color: rgb(247, 239, 239);
+    color: black;
     width: 80%;
-    margin: 10% 0%;
-    padding: 1vh 0.5vw;
-    box-shadow: 2px 2px rgb(226, 219, 219), 2px 2px rgb(58, 57, 57);
     font-size: 18px;
-    font-weight: 700;
-    margin-top: -5%;
+    margin: 10% ;
+    margin-left: 18px;
+    padding: 10px;
+    box-shadow: 2px 2px rgb(226, 219, 219), 2px 2px rgb(58, 57, 57);
 }
-.haunt{
+.lilbro,.new,.haunt,.open{
     float: right;
 }
-.old{
-    border: solid #fff;
-    background-color: #fff;
-    color: #020636;
-    width: 80%;
-    margin: 10% 0%;
-    padding: 1vh 0.5vw;
-    box-shadow: 2px 2px rgb(226, 219, 219), 2px 2px rgb(58, 57, 57);
-    font-size: 18px;
-    font-weight: 700;
-    margin-top: -5%;
-}
-.new{
-    float: right;
-}
-.dive{
-    border: solid #fff;
-    background-color: #fff;
-    color: #020636;
-    width: 80%;
-    margin: 10% 0%;
-    padding: 1vh 0.5vw;
-    box-shadow: 2px 2px rgb(226, 219, 219), 2px 2px rgb(58, 57, 57);
-    font-size: 18px;
-    font-weight: 700;
-    margin-top: -5%;
-    padding-left: 10px;
-}
-.lilbro{
-    float: right;
-}
-.kill{
-    background-color:rgb(230, 236, 216) ;
-}
-button{
-    background-color: #020636;
-    color: antiquewhite;
-}
-.race{
-    padding-top:30% ;
-}
+
+
+@media screen and (min-width:800px) {
+
+
+    a {
+        font: 700;
+        font-size: 18px;
+        font-weight: bold;
+        font-family: 'Nunito Sans', sans-serif;
+        color: rgb(15, 15, 15);
+    }
+
+    .hoe {
+        color: orangered;
+    }
+
+    .spirit {
+        background-color: rgb(230, 236, 216);
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 2vh 3vw;
+    }
+
+    .job {
+        /* display: block; */
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .ranafter, .loading, .homealone, .fallback {
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+
+    .change {
+        display: none;
+    }
+
+    .badman {
+        padding: 2vh 3vw;
+        background-color: rgb(23, 23, 128);
+        display: flex;
+        justify-content: space-between;
+        /* width: 100%; */
+    }
+
+    .winter {
+        color: rgb(212, 199, 199);
+        padding-top: 5%;
+    }
+
+    .umbrella {
+        font: bold;
+        font-size: 20px;
+        color: rgb(204, 193, 193);
+    }
+
+    button {
+        background-color: rgb(184, 11, 11);
+        padding: 10px;
+        padding-right: 60px;
+        padding-left: 60px;
+        border-radius: 10px;
+        margin-left: 15px;
+    }
+
+    .lonely {
+        color: rgb(233, 223, 224);
+    }
+
+    .lost {
+        width: 550px;
+    }
+
+    .able {
+        color: orangered;
+    }
+
+    .select {
+        background-color: rgb(247, 243, 235);
+        display: flex;
+        justify-content: space-between;
+        color: black;
+        font: bolder;
+        font-size: 18px;
+        font-family: 'Nunito Sans', sans-serif;
+        padding: 30vh 9vw;
+        /* padding-top:  */
+    }
+
+    .greenlight {
+        padding-right: 50%;
+        /* margin-top: -200px; */
+        width: 60%;
+    }
+
+    .labake {
+        border-top-right-radius: 10px;
+        border-top-left-radius: 10px;
+        border-bottom-left-radius: 10px;
+        border-bottom-right-radius: 10px;
+        border-top: 10%;
+        width: 500px;
+    }
+
+    .mumu {
+        display: flex;
+        background-color: rgb(209, 232, 241);
+        justify-content: space-between;
+        padding: 3vh 5vw;
+        gap: 20%;
+    }
+
+    .is {
+        color: rgb(17, 16, 16);
+        padding-top: 5%;
+        padding-left: 15%;
+        font-family: 'Nunito Sans', sans-serif;
+        font-size: 38px;
+        font: bolder;
+    }
+
+    .summer {
+        font: bolder;
+        font-size: 18px;
+        font-family: 'Nunito Sans', sans-serif;
+        padding: 3vh 5vw;
+    }
+
+    .race {
+        margin-top: -20%;
+    }
+
+    .chan {
+        color: black;
+        font: bolder;
+        font-size: 32px;
+        font-family: 'Nunito Sans', sans-serif;
+        padding: 3vh 9vw;
+        padding-top: 10%;
+    }
+
+    .obey {
+        font: 900;
+        font-size: 32px;
+        color: black;
+        font-family: 'Nunito Sans', sans-serif;
+        padding: 1em;
+        padding: 2vh 5vw;
+        margin-left: 20px;
+    }
+
+    .diss {
+        font: 900;
+        font-size: 15px;
+        color: black;
+        font-family: 'Nunito Sans', sans-serif;
+        padding: 2vh 5vw;
+        margin-left: 20px;
+    }
+
+    .hack {
+        border: solid rgb(173, 149, 149);
+        background-color: rgb(247, 239, 239);
+        color: black;
+        width: 80%;
+        margin: 10% 0%;
+        margin-left: 18px;
+        padding: 1em;
+        box-shadow: 2px 2px rgb(226, 219, 219), 2px 2px rgb(58, 57, 57);
+    }
+
+    .rose {
+        border: solid #fff;
+        background-color: #fff;
+        color: #020636;
+        width: 80%;
+        margin: 10% 0%;
+        padding: 1vh 0.5vw;
+        box-shadow: 2px 2px rgb(226, 219, 219), 2px 2px rgb(58, 57, 57);
+        font-size: 18px;
+        font-weight: 700;
+        margin-top: -5%;
+    }
+
+    .open {
+        float: right;
+    }
+
+    .dove {
+        border: solid #fff;
+        background-color: #fff;
+        color: #020636;
+        width: 80%;
+        margin: 10% 0%;
+        padding: 1vh 0.5vw;
+        box-shadow: 2px 2px rgb(226, 219, 219), 2px 2px rgb(58, 57, 57);
+        font-size: 18px;
+        font-weight: 700;
+        margin-top: -5%;
+    }
+
+    .haunt {
+        float: right;
+    }
+
+    .old {
+        border: solid #fff;
+        background-color: #fff;
+        color: #020636;
+        width: 80%;
+        margin: 10% 0%;
+        padding: 1vh 0.5vw;
+        box-shadow: 2px 2px rgb(226, 219, 219), 2px 2px rgb(58, 57, 57);
+        font-size: 18px;
+        font-weight: 700;
+        margin-top: -5%;
+    }
+
+    .new {
+        float: right;
+    }
+
+    .dive {
+        border: solid #fff;
+        background-color: #fff;
+        color: #020636;
+        width: 80%;
+        margin: 10% 0%;
+        padding: 1vh 0.5vw;
+        box-shadow: 2px 2px rgb(226, 219, 219), 2px 2px rgb(58, 57, 57);
+        font-size: 18px;
+        font-weight: 700;
+        margin-top: -5%;
+        padding-left: 10px;
+    }
+
+    .lilbro {
+        float: right;
+    }
+
+    .kill {
+        background-color: rgb(230, 236, 216);
+    }
+
+    button {
+        background-color: #020636;
+        color: antiquewhite;
+    }
+
+    .race {
+        padding-top: 30%;
+    }
