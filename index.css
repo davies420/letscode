@@ -20,6 +20,12 @@ header{
 .heart{
   padding: 2em;
 }
+.badman{
+    background-color: rgb(23, 23, 128)
+}
+.lost{
+    
+}
 @media screen and (min-width:800px) {
     
 
