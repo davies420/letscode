@@ -11,3 +11,5 @@ padded the dwag div given them 1 em
 gave man-in-office- width 100%
 gave my button a color and background color
 color and background color to image of a man in office
+reduced labake image width to fit in the mobile design
+gave labake color aqua and reduced the opacity for the image

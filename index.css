@@ -59,6 +59,12 @@ button{
 }
 .labake{
     width: 100%;
+    color: aqua;
+    opacity: calc(0.7);
+}
+.zoro{
+    background-color: rgb(224, 228, 228);
+    
 }
 @media screen and (min-width:800px) {
     
@@ -127,7 +133,7 @@ button {
     color: rgb(233, 223, 224);
 }
 .lost{
-    width: 800px;
+    width: 550px;
 }
 
 .able {
@@ -148,7 +154,8 @@ button {
 
 .greenlight {
     padding-right: 50%;
-    margin-top: -200px;
+    /* margin-top: -200px; */
+    width: 60%;
 }
 
 .labake {
