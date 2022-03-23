@@ -15,3 +15,4 @@ reduced labake image width to fit in the mobile design
 gave labake color aqua and reduced the opacity for the image
 added boder  and color to the faq
 Adding more styling to the FAQ
+restructuring of the article about the cruise 
